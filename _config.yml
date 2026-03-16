@@ -1,0 +1,7 @@
+title: Brandon Travel Tools
+description: Merged Brandon Travel tools site with travel intelligence calculators, travel utilities, and lightweight creator tools.
+baseurl: ""
+url: ""
+markdown: kramdown
+plugins: []
+permalink: pretty

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Home
-description: Brandon Travel Tools is a merged tools site with travel intelligence calculators, packing and planning utilities, and lightweight creator tools.
+description: Brandon Himpfen Tools is a merged tools site with travel intelligence calculators, packing and planning utilities, and lightweight creator tools.
 ---
 
 <section class="hero-section py-5 py-lg-6">
   <div class="container position-relative">
     <div class="row align-items-center g-4 g-xl-5">
       <div class="col-lg-7">
-        <span class="eyebrow">Brandon Travel Tools</span>
+        <span class="eyebrow">Brandon Himpfen Tools</span>
         <h1 class="display-4 fw-bold mt-3 mb-3">One merged tools site for travel planning, practical utilities, and lightweight web helpers.</h1>
-        <p class="hero-copy mb-4">This version keeps the Brandon Travel design system and combines the original travel intelligence tools with the tools from the other two mini sites.</p>
+        <p class="hero-copy mb-4">This version keeps the Brandon Himpfen design system and combines the original travel intelligence tools with the tools from the other two mini sites.</p>
         <div class="d-flex flex-wrap gap-3">
           <a class="btn btn-brand btn-lg" href="#all-tools">Explore all tools</a>
           <a class="btn btn-soft btn-lg" href="#planning-tools">Start with planning</a>

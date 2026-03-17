@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-description: Brandon Himpfen Tools is a merged tools site with travel intelligence calculators, packing and planning utilities, and lightweight creator tools.
+description: Brandon Himpfen Tools is a collection of travel intelligence calculators, packing and planning utilities, and practical web tools designed for travelers, creators, and everyday use.
 ---
 
 <section class="hero-section py-5 py-lg-6">
@@ -9,30 +9,30 @@ description: Brandon Himpfen Tools is a merged tools site with travel intelligen
     <div class="row align-items-center g-4 g-xl-5">
       <div class="col-lg-7">
         <span class="eyebrow">Brandon Himpfen Tools</span>
-        <h1 class="display-4 fw-bold mt-3 mb-3">One merged tools site for travel planning, practical utilities, and lightweight web helpers.</h1>
-        <p class="hero-copy mb-4">This version keeps the Brandon Himpfen design system and combines the original travel intelligence tools with the tools from the other two mini sites.</p>
+        <h1 class="display-4 fw-bold mt-3 mb-3">Practical tools for travel planning, everyday utilities, and lightweight web helpers.</h1>
+        <p class="hero-copy mb-4">A growing collection of tools designed to help with travel planning, trip logistics, and practical everyday tasks. Each tool focuses on solving a specific problem quickly and clearly.</p>
         <div class="d-flex flex-wrap gap-3">
           <a class="btn btn-brand btn-lg" href="#all-tools">Explore all tools</a>
           <a class="btn btn-soft btn-lg" href="#planning-tools">Start with planning</a>
         </div>
         <div class="hero-metrics row row-cols-1 row-cols-sm-3 g-3 mt-4">
-          <div class="col"><div class="metric-card"><div class="metric-value">25</div><div class="metric-label">Merged tools</div></div></div>
-          <div class="col"><div class="metric-card"><div class="metric-value">5</div><div class="metric-label">Tool groups</div></div></div>
-          <div class="col"><div class="metric-card"><div class="metric-value">1</div><div class="metric-label">Unified design system</div></div></div>
+          <div class="col"><div class="metric-card"><div class="metric-value">25</div><div class="metric-label">Available tools</div></div></div>
+          <div class="col"><div class="metric-card"><div class="metric-value">5</div><div class="metric-label">Tool categories</div></div></div>
+          <div class="col"><div class="metric-card"><div class="metric-value">Fast</div><div class="metric-label">Browser‑based tools</div></div></div>
         </div>
       </div>
       <div class="col-lg-5">
         <div class="hero-panel shadow-soft">
           <div class="hero-panel-top">
-            <span class="badge badge-brand">Merged Collection</span>
-            <h2 class="h3 mt-3 mb-2">A cleaner single home for all three mini sites.</h2>
-            <p class="text-secondary mb-0">Use the travel intelligence tools for trip decisions, the practical travel utilities for logistics, and the creator tools for quick everyday tasks.</p>
+            <span class="badge badge-brand">Featured Tools</span>
+            <h2 class="h3 mt-3 mb-2">A curated collection of practical tools.</h2>
+            <p class="text-secondary mb-0">Use travel intelligence tools for trip decisions, travel utilities for logistics, and quick helper tools for everyday tasks.</p>
           </div>
           <div class="hero-tool-list mt-4">
             <a class="mini-tool-link" href="{{ '/travel-friction-score/' | relative_url }}"><span>Travel Friction Score</span><small>Trip difficulty snapshot</small></a>
             <a class="mini-tool-link" href="{{ '/trip-budget-splitter/' | relative_url }}"><span>Trip Budget Splitter</span><small>Daily and category targets</small></a>
             <a class="mini-tool-link" href="{{ '/packing-tool/' | relative_url }}"><span>Packing Tool</span><small>Packing list generator</small></a>
-            <a class="mini-tool-link" href="{{ '/time-zone-converter/' | relative_url }}"><span>Time Zone Converter</span><small>Timezone-aware conversion</small></a>
+            <a class="mini-tool-link" href="{{ '/time-zone-converter/' | relative_url }}"><span>Time Zone Converter</span><small>Timezone‑aware conversion</small></a>
             <a class="mini-tool-link" href="{{ '/password-generator/' | relative_url }}"><span>Password Generator</span><small>Quick utility</small></a>
           </div>
         </div>
@@ -46,10 +46,11 @@ description: Brandon Himpfen Tools is a merged tools site with travel intelligen
     <div class="section-heading d-flex flex-column flex-lg-row justify-content-between align-items-lg-end gap-3 mb-4">
       <div>
         <span class="eyebrow">All Tools</span>
-        <h2 class="h1 mt-2 mb-2">Browse the merged collection</h2>
+        <h2 class="h1 mt-2 mb-2">Browse the full tool collection</h2>
       </div>
-      <p class="section-copy mb-0">Everything from the three mini sites is now grouped in one place under the design-site theme.</p>
+      <p class="section-copy mb-0">Explore tools for travel planning, logistics, productivity, and everyday problem‑solving.</p>
     </div>
+
     <div class="row g-4 tool-grid-cards">
       <div class="col-md-6 col-xl-4"><a class="feature-card h-100 text-decoration-none" href="{{ '/travel-friction-score/' | relative_url }}"><div class="feature-icon">TF</div><span class="tool-kicker">Planning</span><h3 class="h4 mt-3 mb-2">Travel Friction Score</h3><p class="text-secondary mb-0">Estimate how demanding a trip may feel across time, routing, language, and entry friction.</p></a></div>
       <div class="col-md-6 col-xl-4"><a class="feature-card h-100 text-decoration-none" href="{{ '/visa-complexity-calculator/' | relative_url }}"><div class="feature-icon">VC</div><span class="tool-kicker">Planning</span><h3 class="h4 mt-3 mb-2">Visa Complexity Calculator</h3><p class="text-secondary mb-0">Assess likely administrative burden before you book.</p></a></div>
@@ -122,9 +123,9 @@ description: Brandon Himpfen Tools is a merged tools site with travel intelligen
 <section class="py-5">
   <div class="container">
     <div class="row g-4">
-      <div class="col-lg-4"><div class="principle-card h-100"><h3 class="h5">Merged without losing the base design</h3><p class="text-secondary mb-0">The final site keeps the design-site theme, layout, and styling, while bringing in the tools that previously lived in the other two mini sites.</p></div></div>
-      <div class="col-lg-4"><div class="principle-card h-100"><h3 class="h5">Tool pages normalized</h3><p class="text-secondary mb-0">The imported tools were converted into the same general page structure so the site feels more consistent from page to page.</p></div></div>
-      <div class="col-lg-4"><div class="principle-card h-100"><h3 class="h5">Ready for further cleanup</h3><p class="text-secondary mb-0">This merged version gives you a clean base for future deduping, category refinement, and copy polishing without juggling separate mini sites.</p></div></div>
+      <div class="col-lg-4"><div class="principle-card h-100"><h3 class="h5">Practical first</h3><p class="text-secondary mb-0">Every tool focuses on solving a real task quickly without unnecessary complexity.</p></div></div>
+      <div class="col-lg-4"><div class="principle-card h-100"><h3 class="h5">Fast and lightweight</h3><p class="text-secondary mb-0">All tools run directly in your browser and load quickly on any device.</p></div></div>
+      <div class="col-lg-4"><div class="principle-card h-100"><h3 class="h5">Continuously expanding</h3><p class="text-secondary mb-0">New tools and improvements are added over time as additional travel and utility needs emerge.</p></div></div>
     </div>
   </div>
 </section>

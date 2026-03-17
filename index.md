@@ -105,7 +105,7 @@ description: Brandon Himpfen Tools is a collection of travel intelligence calcul
     <div class="section-heading mb-4">
       <span class="eyebrow">Creator & Web Tools</span>
       <h2 class="h1 mt-2">Quick helpers beyond travel</h2>
-      <p class="section-copy mb-0">The merged site also includes the creator and utility tools that lived in the other mini sites.</p>
+      <p class="section-copy mb-0">A selection of small utilities designed for creators, developers, and everyday digital tasks.</p>
     </div>
     <div class="row g-4">
       <div class="col-md-6 col-xl-3"><div class="tool-card card h-100 border-0 shadow-soft"><div class="card-body"><span class="tool-kicker">Web</span><h3 class="h4 mt-2">Hex RGB Converter</h3><p class="text-secondary">Convert between full hex and RGB color values.</p><a class="tool-link" href="{{ '/hex-rgb-converter/' | relative_url }}">Open tool</a></div></div></div>
